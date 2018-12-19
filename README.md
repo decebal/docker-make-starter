@@ -17,4 +17,4 @@ If all dependencies are satisfied, after running: `make up` the game should be a
 `localhost:8081` or `$DOCKER_HOST:$PORT_FE_EXTERNAL`
 
 
-For more predefined `make` commands please see `MAKE_DOCS.md` or the `Makefile`
+For more predefined `make` commands please see [`MAKE_DOCS.md`](https://github.com/decebal/docker-make-starter/blob/master/MAKE_DOCS.md) or the `Makefile`
